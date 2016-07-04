@@ -1,5 +1,7 @@
 # DESCRIPTION
 
+This project is not maintained. My motivation to implement the feature of downloading course videos from CDN is to bypass GFW. I noticed `d37djvu3ytnwxt.cloudfront.net` is sometimes interfered by GFW. So I lost the incentive. Btw, the feauture of downloading course videos from CDN has been implemented in the original project [coursera-dl/edx-dl](https://github.com/coursera-dl/edx-dl). 
+
 Simple tool to download video lectures from edx.org. 
 
 You are recommended to use stand-alone executables. Choose the link according to your operating system,
